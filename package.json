@@ -1,0 +1,16 @@
+{
+  "name": "budgies-tickets",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "quick.db": "^7.0.0-b13"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Helixiss",
+  "license": "ISC"
+}
